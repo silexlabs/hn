@@ -1,5 +1,5 @@
 Une fois par mois, [Silex Labs](https://www.silexlabs.org/) organise
-un *apéropen* (Apéro Open Source). C'est un moment convivial autour
+un *Apéro Open Source*. C'est un moment convivial autour
 d'un verre et l'occasion de discuter du vaste monde du logiciel libre
 et de ses ramifications dans notre vie à tous.
 
@@ -7,27 +7,24 @@ et de ses ramifications dans notre vie à tous.
  <img src="https://github.com/silexlabs/hn/raw/gh-pages/img/logo-sl.png" width="30%" />
 </a>
 
-Dans le cadre de l'*apéropen* de janvier, nous accueillons la communauté
+Dans le cadre de l'*Apéro Open Source* de Janvier, nous accueillons la communauté
 parisienne [Hacker News](https://news.ycombinator.com/news).
 
 ###Hacker News en bref
 
-**Hacker News** est site de liens en informatique (un peu comme
-[reddit](https://www.reddit.com/)). Il a été crée par
-[Paul Graham](https://fr.wikipedia.org/wiki/Paul_Graham) qui est un
-grand promoteur du langage de programmation
-[Lisp](https://fr.wikipedia.org/wiki/Lisp) (réputé pour sa simplicité
-et sa puissance). HN est une branche de
-[Y Combinator](https://www.ycombinator.com/about/) qui est un
-*accélérateur* de startups de la *silicon valley*.
+**Hacker News** est un site de liens dans le même esprit que [reddit](https://www.reddit.com/). 
+Il a été crée par [Paul Graham] (https://fr.wikipedia.org/wiki/Paul_Graham), une sommité du langage de programmation [Lisp]
+(https://fr.wikipedia.org/wiki/Lisp).
+HN c'est aussi une branche de [Y Combinator](https://www.ycombinator.com/about/)
+qui est un *incubateur* de startups dans la *silicon valley*.
 
-**HN** est un site très fréquenté. On peut avoir
+Très fréquenté, **HN** est plus qu'un site. On peut très souvent avoir
 l'agréable suprise de lire les rélexions des auteurs d'un logiciel
 qu'on utilise quotidiennement. C'est aussi un bon moyen de faire
-partager ses projets *perso* (via les *Show HN*, par exemple
+partager ses projets *perso* via les *Show HN*. Par exemple
 le [Show HN de Dropbox](https://news.ycombinator.com/item?id=8863)).
  
-C'est avec plaisir que nous vous convions à cette première réunion
+C'est donc avec grand plaisir que nous vous convions à cette première réunion
 HN Paris le Jeudi **26/01/2017 à 19:30** (jusquà 22:00).
 
 ###Qui
