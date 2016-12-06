@@ -1,0 +1,95 @@
+:root
+{
+ --color1:hsl(0,100%,50%); /*red*/
+ --color2:hsl(0,80%,60%);
+ --color3:hsl(0,60%,70%);
+ --color4:hsl(0,40%,80%);
+ --color5:hsl(0,20%,90%);
+
+ --size1:25px;
+ --size2:20px;
+ --size3:18px;
+ --size4:16px;
+ --size5:15px;
+ --size6:12px;
+ 
+ --spacer1:5px;
+ --spacer2:10px;
+ --spacer3:15px;
+ 
+ --border1:1px;
+ --border2:2px;
+}
+
+body
+{
+ font-family:sans;
+}
+
+h1
+{
+ font-size:var(--size1);
+}
+
+h2
+{
+ font-size:var(--size2);
+}
+
+h3
+{
+ font-size:var(--size3);
+}
+
+h4
+{
+ font-size:var(--size4);
+}
+
+h5
+{
+ font-size:var(--size5);
+}
+
+h6
+{
+ font-size:var(--size6);
+}
+
+table
+{
+ width:100%;
+}
+
+td
+{
+ vertical-align:top;
+}
+
+iframe
+{
+ width:100%;
+ border:none;
+}
+
+hr
+{
+ height:var(--border2);
+ border:none;
+ background-color:var(--color1);
+}
+
+a
+{
+ color:var(--color1);
+}
+
+a:hover
+{
+ text-decoration:none;
+}
+
+a:visited
+{
+ color:gray;
+}
