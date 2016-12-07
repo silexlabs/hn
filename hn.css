@@ -1,0 +1,144 @@
+@import "css/default.css";
+
+:root
+{
+ --color1:hsl(22,86%,56%); /*hn orange*/
+ 
+ --color2:hsl(22,76%,66%);
+ --color3:hsl(22,66%,76%);
+ 
+ --color4:hsl(60,28%,95%); /*hn background*/
+ --color5:hsl(0,0%,51%); /*hn gray*/
+}
+
+.t1
+{
+ font-size:var(--size1);
+ font-weight:bold;
+}
+
+.t1 a
+{
+ text-decoration:none;
+ color:black;
+}
+
+.t2
+{
+ font-size:var(--size3);
+}
+
+.t2 a
+{
+ color:black;
+}
+
+#page
+{
+ border:var(--border1) solid lightgray;
+ background-color:var(--color4);
+}
+
+#header
+{
+ background-color:var(--color1);
+}
+
+#header td
+{
+ vertical-align:middle;
+}
+
+#menu
+{
+ padding:var(--spacer1);
+ background-color:var(--color2); 
+}
+
+#menu a
+{
+ font-weight:bolder;
+ text-decoration:none;
+ color:black;
+}
+
+#menu a:hover
+{
+ text-decoration:underline;
+}
+
+#update
+{
+ padding-top:var(--spacer1);
+ padding-left:var(--spacer3);
+ padding-right:var(--spacer3);
+
+ text-align:right;
+
+ font-size:smaller;
+ font-weight:bolder;
+ 
+ color:var(--color5);
+}
+
+#update a
+{
+ text-decoration:none;
+ color:var(--color5);
+}
+
+#update a:hover
+{
+ text-decoration:underline;
+}
+
+#layout
+{
+ padding:var(--spacer3);
+}
+
+#content *:first-child /*p, h3...*/
+{
+ margin-top:0;
+}
+
+#widget
+{
+ float:right;
+ width:40%;
+ margin-left:var(--spacer3);
+ padding-left:var(--spacer3);
+ border-left:var(--border2) solid var(--color1);
+}
+
+#widget h3:first-child
+{
+ margin-top:0;
+}
+
+#widget a
+{
+ text-decoration:none;
+}
+
+#widget a:hover
+{
+ text-decoration:underline;
+}
+
+#footer
+{
+ text-align:center;
+ padding:var(--spacer2);
+}
+
+#footer a
+{
+ text-decoration:none;
+ color:black;
+}
+
+#footer a:hover
+{
+ text-decoration:underline;
+}
