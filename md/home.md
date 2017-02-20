@@ -56,8 +56,8 @@ Maps: [OSM](http://osm.org/go/0BOd9Uzsz) | [Google](https://goo.gl/maps/RtNH3wRv
 ### Contact
 
 Web-chat: [framateam.org/silexlabs/hn](https://framateam.org/silexlabs/channels/hn)  
-Meetup.com: [Event page](https://www.meetup.com/Hacker-News-Paris-user-group/events/235645471/)
-Mailing list: hnparis-list [@] meetup.com
+Meetup.com: [Event page](https://www.meetup.com/Hacker-News-Paris-user-group/events/235645471/)  
+Mailing list: hnparis-list [@] meetup.com  
 Mail: **hn [@] silexlabs.org**
 
 ###Credits
